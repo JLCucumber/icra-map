@@ -25,3 +25,7 @@
 
 - 有想法、发现 bug、想要新功能 → 欢迎提 [Issue](../../issues)
 - 想直接动手改进 → 欢迎提 [Pull Request](../../pulls)
+
+---
+
+<sub>🤖 本 README 由 [Claude Code](https://claude.ai/code) 生成。</sub>
