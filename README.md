@@ -15,7 +15,7 @@ A friendlier way to browse & filter the ICRA Interactive Session papers.
 
 > **Wednesday / Thursday** sessions are coming next.
 
-> **Note:** The data here may not be 100% complete or accurate — always treat the official program as the source of truth. Spot something off? Feel free to flag it.
+> **Note:** The data here may not be 100% complete or accurate — always treat the [official program](https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_4.html) as the source of truth. Spot something off? Feel free to flag it.
 
 ## Usage
 
